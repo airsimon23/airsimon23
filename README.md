@@ -7,22 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/@tyson_carl" target="blank"><img src="https://img.shields.io/twitter/follow/@tyson_carl?logo=twitter&style=for-the-badge" alt="@tyson_carl" /></a> </p>
 
-- 🔭 I’m currently working on [thisMollywoodMovieDoesNotExist](https://huggingface.co/spaces/bananabot/ThisMollywoodMovieDoesNotExist.com)
-
-- 🌱 I’m currently learning **JAX**
-
-- 👯 I’m looking to collaborate on **AGI**
-
-- 🤝 I’m looking for help with **Interview prep**
-
-- 📝 I regularly write articles on [https://www.shawnsimon.dev/p/aphorisms?showWelcome=true](https://www.shawnsimon.dev/p/aphorisms?showWelcome=true)
-
-- 💬 Ask me about **machine learning in python**
-
-- 📫 How to reach me **text 813-650-6367**
-
-- ⚡ Fun fact **I've flown in the Aero L-39 Albatros**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tyson_carl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tyson_carl" height="30" width="40" /></a>
